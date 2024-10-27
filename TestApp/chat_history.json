@@ -1,0 +1,10 @@
+[
+    {
+        "user": "Main",
+        "system": "This is a placeholder answer from the RAG system."
+    },
+    {
+        "user": "Second test",
+        "system": "This is a placeholder answer from the RAG system."
+    }
+]
